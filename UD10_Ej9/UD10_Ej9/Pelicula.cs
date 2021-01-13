@@ -30,5 +30,12 @@ namespace UD10_Ej9
         public int Duracion { get => duracion; set => duracion = value; }
         public int Edad_min { get => edad_min; set => edad_min = value; }
         public string Director { get => director; set => director = value; }
+
+
+        public override string ToString()
+        {
+            return "Titulo: "+titulo.ToString() + " Duracion: " + duracion.ToString() + " Edad minima: " + edad_min.ToString() + " Director: " + director.ToString();
+        }
+
     }
 }

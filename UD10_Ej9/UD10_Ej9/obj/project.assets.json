@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\OMEN\\.nuget\\packages\\": {}
+    "C:\\Users\\Cantore\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cursillos\\Ejercicios\\Proyectos\\UD10_Ej9\\UD10_Ej9\\UD10_Ej9.csproj",
+      "projectUniqueName": "D:\\Tic Curso Net\\Clonaciones_Github_Desk\\Ej9\\Ej9_Team6\\UD10_Ej9\\UD10_Ej9\\UD10_Ej9.csproj",
       "projectName": "UD10_Ej9",
-      "projectPath": "D:\\Cursillos\\Ejercicios\\Proyectos\\UD10_Ej9\\UD10_Ej9\\UD10_Ej9.csproj",
-      "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-      "outputPath": "D:\\Cursillos\\Ejercicios\\Proyectos\\UD10_Ej9\\UD10_Ej9\\obj\\",
+      "projectPath": "D:\\Tic Curso Net\\Clonaciones_Github_Desk\\Ej9\\Ej9_Team6\\UD10_Ej9\\UD10_Ej9\\UD10_Ej9.csproj",
+      "packagesPath": "C:\\Users\\Cantore\\.nuget\\packages\\",
+      "outputPath": "D:\\Tic Curso Net\\Clonaciones_Github_Desk\\Ej9\\Ej9_Team6\\UD10_Ej9\\UD10_Ej9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Cantore\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
