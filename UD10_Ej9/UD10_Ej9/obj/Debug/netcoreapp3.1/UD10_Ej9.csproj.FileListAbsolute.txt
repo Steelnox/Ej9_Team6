@@ -1,0 +1,13 @@
+C:\Users\gerardo.aguilar\source\repos\Steelnox\Ej9_Team6\UD10_Ej9\UD10_Ej9\bin\Debug\netcoreapp3.1\UD10_Ej9.exe
+C:\Users\gerardo.aguilar\source\repos\Steelnox\Ej9_Team6\UD10_Ej9\UD10_Ej9\bin\Debug\netcoreapp3.1\UD10_Ej9.deps.json
+C:\Users\gerardo.aguilar\source\repos\Steelnox\Ej9_Team6\UD10_Ej9\UD10_Ej9\bin\Debug\netcoreapp3.1\UD10_Ej9.runtimeconfig.json
+C:\Users\gerardo.aguilar\source\repos\Steelnox\Ej9_Team6\UD10_Ej9\UD10_Ej9\bin\Debug\netcoreapp3.1\UD10_Ej9.runtimeconfig.dev.json
+C:\Users\gerardo.aguilar\source\repos\Steelnox\Ej9_Team6\UD10_Ej9\UD10_Ej9\bin\Debug\netcoreapp3.1\UD10_Ej9.dll
+C:\Users\gerardo.aguilar\source\repos\Steelnox\Ej9_Team6\UD10_Ej9\UD10_Ej9\bin\Debug\netcoreapp3.1\UD10_Ej9.pdb
+C:\Users\gerardo.aguilar\source\repos\Steelnox\Ej9_Team6\UD10_Ej9\UD10_Ej9\obj\Debug\netcoreapp3.1\UD10_Ej9.csprojAssemblyReference.cache
+C:\Users\gerardo.aguilar\source\repos\Steelnox\Ej9_Team6\UD10_Ej9\UD10_Ej9\obj\Debug\netcoreapp3.1\UD10_Ej9.AssemblyInfoInputs.cache
+C:\Users\gerardo.aguilar\source\repos\Steelnox\Ej9_Team6\UD10_Ej9\UD10_Ej9\obj\Debug\netcoreapp3.1\UD10_Ej9.AssemblyInfo.cs
+C:\Users\gerardo.aguilar\source\repos\Steelnox\Ej9_Team6\UD10_Ej9\UD10_Ej9\obj\Debug\netcoreapp3.1\UD10_Ej9.csproj.CoreCompileInputs.cache
+C:\Users\gerardo.aguilar\source\repos\Steelnox\Ej9_Team6\UD10_Ej9\UD10_Ej9\obj\Debug\netcoreapp3.1\UD10_Ej9.dll
+C:\Users\gerardo.aguilar\source\repos\Steelnox\Ej9_Team6\UD10_Ej9\UD10_Ej9\obj\Debug\netcoreapp3.1\UD10_Ej9.pdb
+C:\Users\gerardo.aguilar\source\repos\Steelnox\Ej9_Team6\UD10_Ej9\UD10_Ej9\obj\Debug\netcoreapp3.1\UD10_Ej9.genruntimeconfig.cache

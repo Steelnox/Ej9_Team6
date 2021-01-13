@@ -4,7 +4,7 @@ using System.Text;
 
 namespace UD10_Ej9
 {
-    public class Pelicula
+    class Pelicula
     {
         private string titulo;
         private int duracion;

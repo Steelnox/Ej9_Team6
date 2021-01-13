@@ -13,11 +13,10 @@ namespace UD10_Ej9
         public Pelicula Pelicula { get => pelicula; set => pelicula = value; }
         public int PrecioSala { get => precioSala; set => precioSala = value; }
 
-        public Cine(Pelicula pelicula, int precioSala, string[,] salaArray)
+        public Cine(Pelicula pelicula, int precioSala)
         {
             this.pelicula = pelicula;
             this.precioSala = precioSala;
-            this.salaArray = salaArray;
         }
 
         public void mostrarSala()
@@ -67,13 +66,14 @@ namespace UD10_Ej9
                     }
                     if (salaArray[i,j]==null)
                     {
-                        Console.WriteLine(Convert.ToString(i+1)+letra);
+                        Console.Write(Convert.ToString(i+1)+letra + " ");
                     }
                     else
                     {
-                        Console.WriteLine("X");
+                        Console.Write("X ");
                     }
                 }
+                Console.WriteLine();
             }
         }
 

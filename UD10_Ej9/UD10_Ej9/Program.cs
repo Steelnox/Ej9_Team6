@@ -6,7 +6,8 @@ namespace UD10_Ej9
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Menu M1 = new Menu();
+            M1.PintarMenu();
         }
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tic Curso Net\\Clonaciones_Github_Desk\\Ej9\\Ej9_Team6\\UD10_Ej9\\UD10_Ej9\\UD10_Ej9.csproj": {}
+    "C:\\Users\\gerardo.aguilar\\source\\repos\\Steelnox\\Ej9_Team6\\UD10_Ej9\\UD10_Ej9\\UD10_Ej9.csproj": {}
   },
   "projects": {
-    "D:\\Tic Curso Net\\Clonaciones_Github_Desk\\Ej9\\Ej9_Team6\\UD10_Ej9\\UD10_Ej9\\UD10_Ej9.csproj": {
+    "C:\\Users\\gerardo.aguilar\\source\\repos\\Steelnox\\Ej9_Team6\\UD10_Ej9\\UD10_Ej9\\UD10_Ej9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tic Curso Net\\Clonaciones_Github_Desk\\Ej9\\Ej9_Team6\\UD10_Ej9\\UD10_Ej9\\UD10_Ej9.csproj",
+        "projectUniqueName": "C:\\Users\\gerardo.aguilar\\source\\repos\\Steelnox\\Ej9_Team6\\UD10_Ej9\\UD10_Ej9\\UD10_Ej9.csproj",
         "projectName": "UD10_Ej9",
-        "projectPath": "D:\\Tic Curso Net\\Clonaciones_Github_Desk\\Ej9\\Ej9_Team6\\UD10_Ej9\\UD10_Ej9\\UD10_Ej9.csproj",
-        "packagesPath": "C:\\Users\\Cantore\\.nuget\\packages\\",
-        "outputPath": "D:\\Tic Curso Net\\Clonaciones_Github_Desk\\Ej9\\Ej9_Team6\\UD10_Ej9\\UD10_Ej9\\obj\\",
+        "projectPath": "C:\\Users\\gerardo.aguilar\\source\\repos\\Steelnox\\Ej9_Team6\\UD10_Ej9\\UD10_Ej9\\UD10_Ej9.csproj",
+        "packagesPath": "C:\\Users\\gerardo.aguilar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gerardo.aguilar\\source\\repos\\Steelnox\\Ej9_Team6\\UD10_Ej9\\UD10_Ej9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Cantore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gerardo.aguilar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
